@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment=""
+    Name="UltimateOnly"
+    BackgroundColor="Blue" />
+  <ConditionTag
+    Comment=""
+    Name="MMAOnly"
+    BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="InternalOnly"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="CoSourceBroker"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="ExternalOnly"
+    Comment="" />
+</CatapultConditionTagSet>
