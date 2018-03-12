@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/MyVariables.flvar" />
+    <Link
+      Url="Content/Resources/Snippets/For more information, see.flsnp" />
+    <Link
+      Url="Content/Release Notes 1.0.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Project/VariableSets/MyVariables.flvar" />
+    <Link
+      Url="Content/Resources/Snippets/For more information, see.flsnp" />
+    <Link
+      Url="Content/Release Notes 1.0.htm#(12345)" />
+    <Link
+      Url="Content/Release Notes 1.0.htm#(12345)2" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="(12345)2" />
+    <Anchor
+      Name="(12345)" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables>
+    <Variable
+      Name="MyVariables.CompanyName" />
+    <Variable
+      Name="MyVariables.ReleaseName" />
+    <Variable
+      Name="MyVariables.MMACompanyName" />
+  </Variables>
+  <FileConditions>
+    <Condition
+      Tag="Default.InternalOnly" />
+  </FileConditions>
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.InternalOnly" />
+    <Condition
+      Tag="Default.ExternalOnly" />
+    <Condition
+      Tag="Default.CoSourceBroker" />
+    <Condition
+      Tag="Default.MMAOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>
